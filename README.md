@@ -1,2 +1,2 @@
 # error
-first sol
+first soliution
